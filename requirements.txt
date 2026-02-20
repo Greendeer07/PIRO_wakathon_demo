@@ -1,8 +1,7 @@
 Django==5.2.10
 djangorestframework==3.15.2
 psycopg[binary]==3.1.18
-python-dotenv==1.0.1
-requests==2.32.3
+python-dotenv==1.2.1
 Pillow==10.3.0
 gunicorn==21.2.0
 whitenoise==6.6.0
@@ -12,3 +11,12 @@ drf-yasg==1.21.7
 django-filter==23.5
 python-dateutil==2.8.2
 deep-translator==1.11.4
+asgiref==3.11.1
+certifi==2026.1.4
+charset-normalizer==3.4.4
+idna==3.11
+requests==2.32.5
+sqlparse==0.5.5
+tzdata==2025.3
+urllib3==2.6.3
+what3words==3.4.0
